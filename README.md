@@ -1,7 +1,5 @@
-# Portfolio
+# Compartmentalization Practice
 
-This repository is meant to be a reference to the skills of Elizabeth Condict. 
+The goal of this project was to practice compartmentalization in python using back-end code, and Customtkiner UI. What came out was a little mini game where the player must fight off endless waves of enemies. Each wave more enemies spawn, the player's gun can change randomly, and the player can choose between being given more health or more ammo. Upon killing an enemy there is a chance it will drop extra health or ammo. I have previously attempted this with Customtkinter, and was able to get around some problems I previously encountered. Such as; ensuring enemies don't overlap, projectile physics and collision, accurate player-enemy and enemy-projectile collision, more accurate enemy movement, better coordinate tracking and storing system, as well as a player inventory. One thing remains clear through every game I've made With Customtkinter, it is too recource intensive to make anything big outside of text-based games. In this mini game, my computer starts lagging around wave 8 because of all of the different widgets moving around the screen every frame.
 
-It does not contain any AI generated code.
-
-It does not contain any copied work, all work shown is my own and may not be used for proffesional purposes, but may be used for personal purposes. 
+All files are necesarry for the game to run. Download or paste all files into the same directory, and run Main.py.
